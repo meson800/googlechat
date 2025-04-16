@@ -5,4 +5,4 @@ ruamel.yaml>=0.15.94,<0.18
 commonmark>=0.8,<0.10
 python-magic>=0.4,<0.5
 protobuf>=4,<5
-mautrix @ git+https://github.com/mautrix/python.git@8eac9db01e2b5fd9a30620bcbc8ebbaa36c71ecb
+mautrix @ git+https://github.com/meson800/mautrix-python.git@1eeabd4e11f362d8653577c378a18ba9f2bd90d8
